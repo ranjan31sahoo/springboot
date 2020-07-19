@@ -7,7 +7,8 @@ spring:
       config:
          server:
             git:
-               uri: https://github.com/usamal-pixel/cloud-config-server
+               #uri: https://github.com/usamal-pixel/cloud-config-server
+               uri: https://github.com/ranjan31sahoo/springboot.git/cloud-config-server
 server:
    port: 8888
    
